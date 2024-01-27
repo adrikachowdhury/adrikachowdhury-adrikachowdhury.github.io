@@ -31,7 +31,7 @@ _Hi, I'm Adrika Chowdhury, based in Chattogram, Bangladesh. I'm pursuing my Bach
 - Worked on a project for 4 months named 'Khaddo Daan' as the Graphics Designer of the project, focusing on SDG 2: Zero Hunger under United Nations Academic Impact (UNAI)
 
 **Public Relations Volunteer @ Asian University for Women, Chattogram (2021)**
-- Worked as a public relations managing volunteer for the 9th Photography Carnival
+- Worked as a public relations managing volunteer for the 9<sup>th</sup> Photography Carnival
 
 # Certifications
 **Code In Place Certification (2023)**
