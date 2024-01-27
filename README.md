@@ -1,12 +1,36 @@
-# Computer Science Major Student
+## Hi, I'm Adrika Chowdhury, based in Chittagong, Bangladesh. I'm pursuing my Bachelor of Science in Computer Science at the Asian University for Women, and expect to graduate in 2025. As a person, I'm friendly, dedicated, hard-working, and enthusiastic. I'm also quite efficient in teamwork and organization. During my pastime, I often do digital painting, listen to music, or watch series during my pastime. I've been planning to do my higher studies in my major after my undergrad studies. After completing my Bachelor's and Master's, I set my career goal to secure a high-standard job in the CS field to get enough important skills. I believe that these skills would be crucial for me to compete in the challenging world.
+
+## Skills 
+- Language Fluency (Native Bangla and English)
+- Time Management Skills
+- Organizational Skills
+- Teamwork Skills
+- Problem-Solving Skills
+- Computer Proficiencies: Basic C/Python/Java Programming, SPSS, Canva, Adobe Fresco, Basic Front-End Development
 
 # Education
-HSC, SSC
+- B. Sc. , Computer Science | CGPA 3.98 | Asian University for Women (2025)
+- Higher Secondary Certificate (HSC), Science Group | GPA 5.00 | College of Science, Business and Humanities (2020)
+- Secondary School Certificate (SSC), Science Group | GPA 5.00 | Southpoint School and College (2018)
 
-# Work Experience
-- project 1
-- project 2
+# Experience
+**Graphics Designer and Editor @ Asian University for Women, Chattogram (2022 - 2023)**
+- Worked as the graphics designer and editor for the Culinary Chef Club
+**Teaching Assistant @ Asian University for Women, Chattogram (2022)**
+- Worked as a teaching assistant for Reading Across the Disciplines (RAD) and English as Second Language (ESL) courses of Pre-UG
+**Data Collector @ Bangladesh Institute of Labour Studies (BILS), Chattogram (2022)**
+- Worked as a data collector for a project regarding the decent working environment and worker's rights in the industrial establishment under Chittagong University (CU)
 
-# Projects
-- P1
-- P2
+# Extracurricular Activities
+**Organizing Committee Member @ Asian University for Women, Chattogram (2023)**
+- Worked as an organizing committee member for the Intervarsity Debate Championship
+**Millenium Fellow @ Millenium Campus Network (MCN) (2022)**
+- Worked on a project for 4 months named 'Khaddo Daan' as the Graphics Designer of the project, focusing on SDG 2: Zero Hunger under United Nations Academic Impact (UNAI)
+**Public Relations Volunteer @ Asian University for Women, Chattogram (2021)**
+- Worked as a public relations managing volunteer for the 9th Photography Carnival
+
+# Certifications
+**Code In Place Certification (2023)**
+- Completed the online course “Introduction to Python (CS106A)” offered by Standford University
+**Cisco Certification (2023)**
+- Completed beginner-level “Introduction to Cybersecurity” course under the Cisco Networking Academy
