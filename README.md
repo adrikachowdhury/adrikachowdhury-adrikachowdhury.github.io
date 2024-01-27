@@ -42,7 +42,7 @@
 
 # Projects
 **Python Programming - "Imbricating Colorful Squares"**
-https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS
+[https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS]
 
 Developed a final graphics project for the
 Code In Place Certification course using Python Programming
