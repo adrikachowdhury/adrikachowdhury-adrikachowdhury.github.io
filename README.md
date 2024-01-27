@@ -41,7 +41,7 @@ _Hi, I'm Adrika Chowdhury, based in Chattogram, Bangladesh. I'm pursuing my Bach
 - Completed beginner-level “Introduction to Cybersecurity” course under the Cisco Networking Academy
 
 # Projects
-**Python Programming - "Imbricating Colorful Squares"**
+### Python Programming
 [Imbricating Colorful Squares] (https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS)
 
 Developed a final graphics project for the
