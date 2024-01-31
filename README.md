@@ -16,11 +16,6 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I'm pursuing my Bac
 | **Higher Secondary Certificate (HSC)** | Science Group | GPA *5.00* | College of Science Business and Humanities (CSBH) | 2020 |
 | **Secondary School Certificate (SSC)** | Science Group | GPA *5.00* | Southpoint School and College (SPSC) | 2018 |
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
 # Experience
 **Graphics Designer and Editor @ Asian University for Women, Chattogram (2022 - 2023)**
 - Worked as the graphics designer and editor for the Culinary Chef Club
@@ -37,6 +32,7 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I'm pursuing my Bac
 
 **Millenium Fellow @ Millenium Campus Network (MCN) (2022)**
 - Worked on a project for 4 months named 'Khaddo Daan' as the Graphics Designer of the project, focusing on SDG 2: Zero Hunger under United Nations Academic Impact (UNAI)
+[Millenium Fellowship Program- About Me](https://www.millenniumfellows.org/fellow/2022/asian-university/adrika-chowdhury)
 
 **Public Relations Volunteer @ Asian University for Women, Chattogram (2021)**
 - Worked as a public relations managing volunteer for the 9<sup>th</sup> Photography Carnival
