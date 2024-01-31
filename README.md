@@ -1,4 +1,4 @@
-_Hi, I'm Adrika Chowdhury, based in Chattogram, Bangladesh. I'm pursuing my Bachelor of Science in Computer Science at the Asian University for Women, and expect to graduate in 2025. As a person, I'm friendly, dedicated, hard-working, and enthusiastic. I'm also quite efficient in teamwork and organization. During my pastime, I often do digital painting, listen to music, or watch series during my pastime. I've been planning to do my higher studies in my major after my undergrad studies. After completing my Bachelor's and Master's, I set my career goal to secure a high-standard job in the CS field to get enough important skills. I believe that these skills would be crucial for me to compete in the challenging world._
+_Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I'm pursuing my Bachelor of Science in Computer Science at the Asian University for Women, and expect to graduate in 2025. As a person, I am friendly, dedicated, hard-working, and enthusiastic. I am also quite efficient in teamwork and organization. During my pastime, I often do digital painting, listen to music, or watch series during my pastime. I have been planning to do my higher studies in my major after my undergraduate studies. After completing my Bachelor's and Master's, I set my career goal to secure a high-standard job in the CS field to get enough important skills needed these days. I believe that these skills would be crucial for me to compete in the challenging world._
 
 ## Skills 
 - Language Fluency (Native Bangla and English)
@@ -8,10 +8,12 @@ _Hi, I'm Adrika Chowdhury, based in Chattogram, Bangladesh. I'm pursuing my Bach
 - Problem-Solving Skills
 - Computer Proficiencies: Basic C/Python/Java Programming, SPSS, Canva, Adobe Fresco, Basic Front-End Development
 
-# Education
-- B. Sc., Computer Science | CGPA 3.98 | Asian University for Women (2025)
-- Higher Secondary Certificate (HSC), Science Group | GPA 5.00 | College of Science, Business and Humanities (2020)
-- Secondary School Certificate (SSC), Science Group | GPA 5.00 | Southpoint School and College (2018)
+# Education Background
+| Qualification | Subject | Grade | Institution | Year |
+| :-------------: | :-------: | :-----: | :-----------: | :----: |
+| **Bachelor of Science (B.Sc.)** | Computer Science | CGPA *3.98* | Asian University for Women (AUW) | 2025 |
+|**Higher Secondary Certificate (HSC)** | Science Group | GPA *5.00* | College of Science Business and Humanities (CSBH) | 2020 |
+|**Secondary School Certificate (SSC)** | Science Group | GPA *5.00* | Southpoint School and College (SPSC) | 2018 |
 
 # Experience
 **Graphics Designer and Editor @ Asian University for Women, Chattogram (2022 - 2023)**
