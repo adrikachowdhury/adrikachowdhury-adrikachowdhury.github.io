@@ -9,11 +9,12 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I'm pursuing my Bac
 - Computer Proficiencies: Basic C/Python/Java Programming, SPSS, Canva, Adobe Fresco, Basic Front-End Development
 
 # Education Background
+
 | Qualification | Subject | Grade | Institution | Year |
-| :-------------: | :-------: | :-----: | :-----------: | :----: |
+| ------------- | ------- | ----- | ----------- | ---- |
 | **Bachelor of Science (B.Sc.)** | Computer Science | CGPA *3.98* | Asian University for Women (AUW) | 2025 |
-|**Higher Secondary Certificate (HSC)** | Science Group | GPA *5.00* | College of Science Business and Humanities (CSBH) | 2020 |
-|**Secondary School Certificate (SSC)** | Science Group | GPA *5.00* | Southpoint School and College (SPSC) | 2018 |
+| **Higher Secondary Certificate (HSC)** | Science Group | GPA *5.00* | College of Science Business and Humanities (CSBH) | 2020 |
+| **Secondary School Certificate (SSC)** | Science Group | GPA *5.00* | Southpoint School and College (SPSC) | 2018 |
 
 | Command | Description |
 | --- | --- |
