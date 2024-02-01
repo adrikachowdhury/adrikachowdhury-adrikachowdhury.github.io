@@ -17,24 +17,24 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I'm pursuing my Bac
 | **Secondary School Certificate (SSC)** | Science Group | GPA *5.00* | Southpoint School and College (SPSC)  | Bangladesh | 2018 |
 
 ## Experience
-**Graphics Designer and Editor @ Asian University for Women, Chattogram (2022 - 2023)**
+**Graphics Designer and Editor** | Asian University for Women, Chattogram | 2022-2023
 - Worked as the graphics designer and editor for the Culinary Chef Club
 
-**Teaching Assistant @ Asian University for Women, Chattogram (2022)**
+**Teaching Assistant** | Asian University for Women, Chattogram | 2022
 - Worked as a teaching assistant for Reading Across the Disciplines (RAD) and English as Second Language (ESL) courses of Pre-UG
 
-**Data Collector @ Bangladesh Institute of Labour Studies (BILS), Chattogram (2022)**
+**Data Collector and Enumerator** | Bangladesh Institute of Labour Studies (BILS), Chattogram | 2022
 - Worked as a data collector for a project regarding the decent working environment and worker's rights in the industrial establishment under Chittagong University (CU)
 
 ## Extracurricular Activities
-**Organizing Committee Member @ Asian University for Women, Chattogram (2023)**
+**Organizing Committee Member** | Asian University for Women, Chattogram | 2023
 - Worked as an organizing committee member for the Intervarsity Debate Championship
 
-**Millenium Fellow @ Millenium Campus Network (MCN) (2022)**
+**Millenium Fellow** | Millenium Campus Network (MCN) | 2022
 - Worked on a project for 4 months named 'Khaddo Daan' as the Graphics Designer of the project, focusing on SDG 2: Zero Hunger under United Nations Academic Impact (UNAI)
 [Millenium Fellowship Program- About Me](https://www.millenniumfellows.org/fellow/2022/asian-university/adrika-chowdhury)
 
-**Public Relations Volunteer @ Asian University for Women, Chattogram (2021)**
+**Public Relations Volunteer** | Asian University for Women, Chattogram | 2021
 - Worked as a public relations managing volunteer for the 9<sup>th</sup> Photography Carnival
 
 ## Certifications
@@ -45,8 +45,5 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I'm pursuing my Bac
 - Completed beginner-level “Introduction to Cybersecurity” course under the Cisco Networking Academy
 
 ## Projects
-### Python Programming
-[Imbricating Colorful Squares](https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS)
-
-Developed a final graphics project for the
-Code In Place Certification course using Python Programming
+### Python Programming - _[Imbricating Colorful Squares]_(https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS)
+Developed a final graphics project for the Code In Place Certification course using Python Programming
