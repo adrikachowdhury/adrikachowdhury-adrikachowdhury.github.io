@@ -11,7 +11,7 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
 
 ## Education
 <table>
- <tr style="text-align: center; font-family: Garamond; font-size: 100%; background-color: #F0F8FF;">
+ <tr style="text-align: center; font-family: Garamond; font-size: 120%; background-color: #F0F8FF;">
     <th>Qualification</th>
     <th>Subject</th>
     <th>Grade</th>
@@ -19,7 +19,7 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
     <th>Country</th>
     <th>Year</th>
   </tr>
-  <tr>
+  <tr style="text-align: center; font-family: Garamond; font-size: 120%; background-color: #F0F8FF;">
    <td>Bachelor of Science (B.Sc.)</td>
    <td>Computer Science</td>
    <td>CGPA 3.98</td>
@@ -27,7 +27,7 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
    <td>Bangladesh</td>
    <td>2025</td>
   </tr>
-  <tr>
+  <tr style="text-align: center; font-family: Garamond; font-size: 120%; background-color: #f7fdff;">
    <td>Higher Secondary Certificate (HSC)</td>
    <td>Science Group</td>
    <td>GPA 5.00</td>
@@ -35,7 +35,7 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
    <td>Bangladesh</td>
    <td>2020</td>
   </tr>
-  <tr>
+  <tr style="text-align: center; font-family: Garamond; font-size: 120%; background-color: #f7fdff;">
    <td>Secondary School Certificate (SSC)</td>
    <td>Science Group</td>
    <td>GPA 5.00</td>
@@ -53,21 +53,22 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
 - Worked as a teaching assistant for Reading Across the Disciplines (RAD) and English as Second Language (ESL) courses of Pre-UG
 
 **Data Collector and Enumerator** | **Bangladesh Institute of Labour Studies (BILS), Chattogram** | **2022**
-- Worked as a data collector for a project regarding the decent working environment and worker's rights in the industrial establishment under Chittagong University (CU)
+- Worked as a data collector for a project regarding the decent working environment and worker's rights in the industrial establishment under Chittagong University (CU) <br>
 [Certificate](https://adrikachowdhury.github.io/assets/img/BILS.jpg)
 
 ## Extracurricular Activities
 **Organizing Committee Member** | **Asian University for Women (AUW), Chattogram** | **2023**
-- Worked as an organizing committee member for the Intervarsity Debate Championship
-
+- Worked as an organizing committee member for the Intervarsity Debate Championship <br>
+[Participation Certificate](https://adrikachowdhury.github.io/assets/img/AUWDS%20OrgCoM.jpg)
 
 **Millenium Fellow** | **Millenium Campus Network (MCN)** | **2022**
 - Worked on a project for 4 months named 'Khaddo Daan' as the Graphics Designer of the project, focusing on SDG 2: Zero Hunger under United Nations Academic Impact (UNAI) <br>
-[Millenium Fellowship Program- About Me](https://www.millenniumfellows.org/fellow/2022/asian-university/adrika-chowdhury)
+[Millenium Fellowship Program- About Me](https://www.millenniumfellows.org/fellow/2022/asian-university/adrika-chowdhury) <br>
 [Completion Certificate](https://adrikachowdhury.github.io/assets/img/Millennium%20Fellowship%20Certificate%20-%2022159.pdf)
 
 **Public Relations Volunteer** | **Asian University for Women (AUW), Chattogram** | **2021**
-- Worked as a public relations managing volunteer for the 9<sup>th</sup> Photography Carnival
+- Worked as a public relations managing volunteer for the 9<sup>th</sup> Photography Carnival <br>
+[Participation Certificate](https://adrikachowdhury.github.io/assets/img/AUWPC.jpg)
 
 ## Certifications
 **Code In Place Certification (2023)**
@@ -81,5 +82,5 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
 
 ## Projects
 ### Python Programming
-[Imbricating Colorful Squares](https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS)
+[Imbricating Colorful Squares](https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS) <br>
 Developed a final graphics project for the Code In Place Certification course using Python Programming
