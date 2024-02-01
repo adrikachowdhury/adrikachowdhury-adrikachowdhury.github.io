@@ -87,6 +87,7 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 [Completion Certificate 2](https://adrikachowdhury.github.io/assets/img/AdrikaChowdhury-Introduction%20to%20-certificate%20-%20Copy.pdf)
 
 <div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> Certifications </strong> </div>
+
 ### Python Programming
 [Imbricating Colorful Squares](https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS) <br>
 Developed a final graphics project for the Code In Place Certification course using Python Programming
