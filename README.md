@@ -1,5 +1,5 @@
 # About Me
-_Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I'm pursuing my Bachelor of Science in Computer Science at the Asian University for Women, and expect to graduate in 2025. As a person, I am friendly, dedicated, hard-working, and enthusiastic. I am also quite efficient in teamwork and organization. During my pastime, I often do digital painting, listen to music, or watch series during my pastime. I have been planning to do my higher studies in my major after my undergraduate studies. After completing my Bachelor's and Master's, I set my career goal to secure a high-standard job in the CS field to get enough important skills needed these days. I believe that these skills would be crucial for me to compete in the challenging world._
+_Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I'm pursuing my Bachelor of Science in Computer Science at the Asian University for Women, and expect to graduate in 2025.<br>As a person, I am friendly, dedicated, hard-working, and enthusiastic. I am also quite efficient in teamwork and organization. During my pastime, I often do digital painting, listen to music, or watch series during my pastime.<br>I have been planning to do my higher studies in my major after my undergraduate studies. After completing my Bachelor's and Master's, I set my career goal to secure a high-standard job in the CS field to get enough important skills needed these days. I believe that these skills would be crucial for me to compete in the challenging world._
 
 ## Skills 
 - Language Fluency (Native Bangla and English)
@@ -46,5 +46,5 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I'm pursuing my Bac
 
 ## Projects
 ### Python Programming
-_[Imbricating Colorful Squares]_(https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS)
+[Imbricating Colorful Squares](https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS)
 Developed a final graphics project for the Code In Place Certification course using Python Programming
