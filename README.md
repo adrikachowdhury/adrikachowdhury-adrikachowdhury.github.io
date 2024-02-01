@@ -11,7 +11,7 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
 
 ## Education
 <table>
- <tr style="text-align: center; font-family: Garamond; font-size: 150%; background-color: #F0F8FF;">
+ <tr style="text-align: center; font-family: Garamond; font-size: 100%; background-color: #F0F8FF;">
     <th>Qualification</th>
     <th>Subject</th>
     <th>Grade</th>
@@ -54,14 +54,17 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
 
 **Data Collector and Enumerator** | **Bangladesh Institute of Labour Studies (BILS), Chattogram** | **2022**
 - Worked as a data collector for a project regarding the decent working environment and worker's rights in the industrial establishment under Chittagong University (CU)
+[Certificate](https://adrikachowdhury.github.io/assets/img/BILS.jpg)
 
 ## Extracurricular Activities
 **Organizing Committee Member** | **Asian University for Women (AUW), Chattogram** | **2023**
 - Worked as an organizing committee member for the Intervarsity Debate Championship
 
+
 **Millenium Fellow** | **Millenium Campus Network (MCN)** | **2022**
 - Worked on a project for 4 months named 'Khaddo Daan' as the Graphics Designer of the project, focusing on SDG 2: Zero Hunger under United Nations Academic Impact (UNAI) <br>
 [Millenium Fellowship Program- About Me](https://www.millenniumfellows.org/fellow/2022/asian-university/adrika-chowdhury)
+[Completion Certificate](https://adrikachowdhury.github.io/assets/img/Millennium%20Fellowship%20Certificate%20-%2022159.pdf)
 
 **Public Relations Volunteer** | **Asian University for Women (AUW), Chattogram** | **2021**
 - Worked as a public relations managing volunteer for the 9<sup>th</sup> Photography Carnival
@@ -69,11 +72,14 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
 ## Certifications
 **Code In Place Certification (2023)**
 - Completed the online course “Introduction to Python (CS106A)” offered by Standford University
+[Completion Certificate](https://adrikachowdhury.github.io/assets/img/CIP.png)
 
 **Cisco Certification (2023)**
 - Completed beginner-level “Introduction to Cybersecurity” course under the Cisco Networking Academy
+[Completion Certificate 1](https://adrikachowdhury.github.io/assets/img/Introduction_to_Cybersecurity_Badge20231212-29-lvk384%20-%20Copy.pdf)
+[Completion Certificate 2](https://adrikachowdhury.github.io/assets/img/AdrikaChowdhury-Introduction%20to%20-certificate%20-%20Copy.pdf)
 
 ## Projects
 ### Python Programming
-[Imbricating Colorful Squares](https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS) - 
+[Imbricating Colorful Squares](https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS)
 Developed a final graphics project for the Code In Place Certification course using Python Programming
