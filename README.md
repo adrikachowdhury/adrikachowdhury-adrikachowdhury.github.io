@@ -14,7 +14,7 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
 
 ## Education
 <table>
-  <tr>
+  <tr class = "attributes">
     <th>Qualification</th>
     <th>Subject</th>
     <th>Grade</th>
