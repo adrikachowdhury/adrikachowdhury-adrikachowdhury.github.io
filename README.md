@@ -1,9 +1,10 @@
 <div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> About Me </strong> </div>
 <br>
-<i>Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bachelor of Science in Computer Science at the Asian University for Women, and expect to graduate in 2025.<br>As a person, I believe in being friendly, dedicated, hard-working, and enthusiastic. I am also quite efficient in teamwork and organization. During my pastime, I often engage myself in digital painting, listening to music, or watching series.<br>I have been planning to do my higher studies in my major after my undergraduate studies. After completing my Bachelor's and Master's, I set my career goal to secure a high-standard job in the field of Computer Science to get enough important skills needed these days. I believe that these skills would be crucial for me to compete in the challenging world.</i>
+<i style= "font-familyL Arial;">
+Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bachelor of Science in Computer Science at the Asian University for Women, and expect to graduate in 2025.<br>As a person, I believe in being friendly, dedicated, hard-working, and enthusiastic. I am also quite efficient in teamwork and organization. During my pastime, I often engage myself in digital painting, listening to music, or watching series.<br>I have been planning to do my higher studies in my major after my undergraduate studies. After completing my Bachelor's and Master's, I set my career goal to secure a high-standard job in the field of Computer Science to get enough important skills needed these days. I believe that these skills would be crucial for me to compete in the challenging world.</i>
 
 <div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> Skills </strong> </div>
-<br>
+
 - Language Fluency (Native Bangla and English)
 - Time Management Skills
 - Organizational Skills
@@ -22,7 +23,7 @@
     <th>Country</th>
     <th>Year</th>
   </tr>
-  <tr style="text-align: center; font-family: Garamond; font-size: 120%; background-color: #f7fdff;">
+  <tr style="text-align: center; font-family: Monaco; font-size: 120%; background-color: #f7fdff;">
    <td>Bachelor of Science (B.Sc.)</td>
    <td>Computer Science</td>
    <td>CGPA 3.98</td>
@@ -30,7 +31,7 @@
    <td>Bangladesh</td>
    <td>2025</td>
   </tr>
-  <tr style="text-align: center; font-family: Garamond; font-size: 120%; background-color: #f7fdff;">
+  <tr style="text-align: center; font-family: Monaco; font-size: 120%; background-color: #f7fdff;">
    <td>Higher Secondary Certificate (HSC)</td>
    <td>Science Group</td>
    <td>GPA 5.00</td>
@@ -38,7 +39,7 @@
    <td>Bangladesh</td>
    <td>2020</td>
   </tr>
-  <tr style="text-align: center; font-family: Garamond; font-size: 120%; background-color: #f7fdff;">
+  <tr style="text-align: center; font-family: Monaco; font-size: 120%; background-color: #f7fdff;">
    <td>Secondary School Certificate (SSC)</td>
    <td>Science Group</td>
    <td>GPA 5.00</td>
@@ -78,7 +79,7 @@
 <div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> Experience </strong> </div>
 <br>
 **Code In Place Certification (2023)**
-- Completed the online course “Introduction to Python (CS106A)” offered by Standford University
+- Completed the online course “Introduction to Python (CS106A)” offered by Standford University <br>
 [Completion Certificate](https://adrikachowdhury.github.io/assets/img/CIP.png)
 
 **Cisco Certification (2023)**
