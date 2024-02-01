@@ -91,7 +91,6 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 ### Python Programming
 [Imbricating Colorful Squares](https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS) <br>
 Developed a final graphics project for the Code In Place Certification course using Python Programming
-
 ### Github Pages
 [Personal Portfolio Website](https://adrikachowdhury.github.io/) <br>
 Developed a personal portfolio website using Github Pages
