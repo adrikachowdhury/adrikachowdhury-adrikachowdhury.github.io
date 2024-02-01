@@ -11,7 +11,7 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
 
 ## Education
 <table>
- <tr style="text-align: center; font-family: Garamond; font-size: 250%; background-color: #F0F8FF;">
+ <tr style="text-align: center; font-family: Garamond; font-size: 150%; background-color: #F0F8FF;">
     <th>Qualification</th>
     <th>Subject</th>
     <th>Grade</th>
