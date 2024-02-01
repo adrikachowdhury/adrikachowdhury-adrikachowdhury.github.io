@@ -11,7 +11,6 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
 
 ## Education Background
 | Qualification | Subject | Grade | Institution | Country | Year |
-
 | ------------- | ------- | ----- | ----------- | ---- | --- |
 | **Bachelor of Science (B.Sc.)** | Computer Science | CGPA *3.98* | Asian University for Women (AUW)  | Bangladesh | 2025 |
 | **Higher Secondary Certificate (HSC)** | Science Group | GPA *5.00* | College of Science Business and Humanities (CSBH)  | Bangladesh | 2020 |
