@@ -1,5 +1,15 @@
+<title>Adrika Chowdhury | Portfolio</title>
+
+<style>
+div {
+background-color: #B6D0E2;
+}
+</style>
+
 # About Me
+<div>
 _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bachelor of Science in Computer Science at the Asian University for Women, and expect to graduate in 2025.<br>As a person, I believe in being friendly, dedicated, hard-working, and enthusiastic. I am also quite efficient in teamwork and organization. During my pastime, I often engage myself in digital painting, listening to music, or watching series.<br>I have been planning to do my higher studies in my major after my undergraduate studies. After completing my Bachelor's and Master's, I set my career goal to secure a high-standard job in the field of Computer Science to get enough important skills needed these days. I believe that these skills would be crucial for me to compete in the challenging world._
+</div>
 
 ## Skills 
 - Language Fluency (Native Bangla and English)
@@ -54,7 +64,7 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
 
 **Data Collector and Enumerator** | **Bangladesh Institute of Labour Studies (BILS), Chattogram** | **2022**
 - Worked as a data collector for a project regarding the decent working environment and worker's rights in the industrial establishment under Chittagong University (CU)
-<br>
+
 ## Extracurricular Activities
 **Organizing Committee Member** | **Asian University for Women (AUW), Chattogram** | **2023**
 - Worked as an organizing committee member for the Intervarsity Debate Championship
@@ -65,14 +75,14 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
 
 **Public Relations Volunteer** | **Asian University for Women (AUW), Chattogram** | **2021**
 - Worked as a public relations managing volunteer for the 9<sup>th</sup> Photography Carnival
-<br>
+
 ## Certifications
 **Code In Place Certification (2023)**
 - Completed the online course “Introduction to Python (CS106A)” offered by Standford University
 
 **Cisco Certification (2023)**
 - Completed beginner-level “Introduction to Cybersecurity” course under the Cisco Networking Academy
-<br>
+
 ## Projects
 ### Python Programming
 [Imbricating Colorful Squares](https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS) - 
