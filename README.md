@@ -9,6 +9,7 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
 - Problem-Solving Skills
 - Computer Proficiencies: Basic C/Python/Java Programming, SPSS, Canva, Adobe Fresco, Basic Front-End Development
 
+## Education
 <table>
   <tr>
     <th>Qualification</th>
