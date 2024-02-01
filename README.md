@@ -15,7 +15,7 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
 | **Bachelor of Science (B.Sc.)** | Computer Science | CGPA *3.98* | Asian University for Women (AUW)  | Bangladesh | 2025 |
 | **Higher Secondary Certificate (HSC)** | Science Group | GPA *5.00* | College of Science Business and Humanities (CSBH)  | Bangladesh | 2020 |
 | **Secondary School Certificate (SSC)** | Science Group | GPA *5.00* | Southpoint School and College (SPSC)  | Bangladesh | 2018 |
-
+<br>
 ## Experience
 **Graphics Designer and Editor** | **Asian University for Women (AUW), Chattogram** | **2022-2023**
 - Worked as the graphics designer and editor for the Culinary Chef Club
@@ -25,7 +25,7 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
 
 **Data Collector and Enumerator** | **Bangladesh Institute of Labour Studies (BILS), Chattogram** | **2022**
 - Worked as a data collector for a project regarding the decent working environment and worker's rights in the industrial establishment under Chittagong University (CU)
-
+<br>
 ## Extracurricular Activities
 **Organizing Committee Member** | **Asian University for Women (AUW), Chattogram** | **2023**
 - Worked as an organizing committee member for the Intervarsity Debate Championship
@@ -36,14 +36,14 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
 
 **Public Relations Volunteer** | **Asian University for Women (AUW), Chattogram** | **2021**
 - Worked as a public relations managing volunteer for the 9<sup>th</sup> Photography Carnival
-
+<br>
 ## Certifications
 **Code In Place Certification (2023)**
 - Completed the online course “Introduction to Python (CS106A)” offered by Standford University
 
 **Cisco Certification (2023)**
 - Completed beginner-level “Introduction to Cybersecurity” course under the Cisco Networking Academy
-
+<br>
 ## Projects
 ### Python Programming
 [Imbricating Colorful Squares](https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS) - 
