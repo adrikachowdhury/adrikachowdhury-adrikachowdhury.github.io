@@ -46,5 +46,5 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I'm pursuing my Bac
 
 ## Projects
 ### Python Programming
-[Imbricating Colorful Squares](https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS)
+[Imbricating Colorful Squares](https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS) - 
 Developed a final graphics project for the Code In Place Certification course using Python Programming
