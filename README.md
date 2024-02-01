@@ -9,13 +9,41 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
 - Problem-Solving Skills
 - Computer Proficiencies: Basic C/Python/Java Programming, SPSS, Canva, Adobe Fresco, Basic Front-End Development
 
-## Education Background
-| Qualification | Subject | Grade | Institution | Country | Year |
-| ------------- | ------- | ----- | ----------- | ---- | --- |
-| **Bachelor of Science (B.Sc.)** | Computer Science | CGPA *3.98* | Asian University for Women (AUW)  | Bangladesh | 2025 |
-| **Higher Secondary Certificate (HSC)** | Science Group | GPA *5.00* | College of Science Business and Humanities (CSBH)  | Bangladesh | 2020 |
-| **Secondary School Certificate (SSC)** | Science Group | GPA *5.00* | Southpoint School and College (SPSC)  | Bangladesh | 2018 |
-<br>
+<table>
+  <tr>
+    <th>Qualification</th>
+    <th>Subject</th>
+    <th>Grade</th>
+    <th>Institution</th>
+    <th>Country</th>
+    <th>Year</th>
+  </tr>
+  <tr>
+   <td>Bachelor of Science (B.Sc.)</td>
+   <td>Computer Science</td>
+   <td>CGPA 3.98</td>
+   <td>Asian University for Women (AUW)</td>
+   <td>Bangladesh</td>
+   <td>2025</td>
+  </tr>
+  <tr>
+   <td>Higher Secondary Certificate (HSC)</td>
+   <td>Science Group</td>
+   <td>GPA 5.00</td>
+   <td>College of Science Business and Humanities (CSBH)</td>
+   <td>Bangladesh</td>
+   <td>2020</td>
+  </tr>
+  <tr>
+   <td>Secondary School Certificate (SSC)</td>
+   <td>Science Group</td>
+   <td>GPA 5.00</td>
+   <td>Southpoint School and College (SPSC)</td>
+   <td>Bangladesh</td>
+   <td>2018</td>
+  </tr>
+</table>
+
 ## Experience
 **Graphics Designer and Editor** | **Asian University for Women (AUW), Chattogram** | **2022-2023**
 - Worked as the graphics designer and editor for the Culinary Chef Club
