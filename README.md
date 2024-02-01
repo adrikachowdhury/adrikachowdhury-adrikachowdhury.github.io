@@ -1,10 +1,7 @@
-<title>Adrika Chowdhury | Portfolio</title>
-
-<style>
-div {
-background-color: #B6D0E2;
-}
-</style>
+<html>
+<title>
+  Adrika Chowdhury | Portfolio
+</title>
 
 # About Me
 <div>
@@ -87,3 +84,5 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Ba
 ### Python Programming
 [Imbricating Colorful Squares](https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS) - 
 Developed a final graphics project for the Code In Place Certification course using Python Programming
+
+</html>
