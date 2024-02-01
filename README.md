@@ -1,5 +1,5 @@
 # About Me
-_Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I'm pursuing my Bachelor of Science in Computer Science at the Asian University for Women, and expect to graduate in 2025.<br>As a person, I am friendly, dedicated, hard-working, and enthusiastic. I am also quite efficient in teamwork and organization. During my pastime, I often do digital painting, listen to music, or watch series during my pastime.<br>I have been planning to do my higher studies in my major after my undergraduate studies. After completing my Bachelor's and Master's, I set my career goal to secure a high-standard job in the CS field to get enough important skills needed these days. I believe that these skills would be crucial for me to compete in the challenging world._
+_Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bachelor of Science in Computer Science at the Asian University for Women, and expect to graduate in 2025.<br>As a person, I believe in being friendly, dedicated, hard-working, and enthusiastic. I am also quite efficient in teamwork and organization. During my pastime, I often engage myself in digital painting, listening to music, or watching series.<br>I have been planning to do my higher studies in my major after my undergraduate studies. After completing my Bachelor's and Master's, I set my career goal to secure a high-standard job in the field of Computer Science to get enough important skills needed these days. I believe that these skills would be crucial for me to compete in the challenging world._
 
 ## Skills 
 - Language Fluency (Native Bangla and English)
@@ -11,6 +11,7 @@ _Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I'm pursuing my Bac
 
 ## Education Background
 | Qualification | Subject | Grade | Institution | Country | Year |
+
 | ------------- | ------- | ----- | ----------- | ---- | --- |
 | **Bachelor of Science (B.Sc.)** | Computer Science | CGPA *3.98* | Asian University for Women (AUW)  | Bangladesh | 2025 |
 | **Higher Secondary Certificate (HSC)** | Science Group | GPA *5.00* | College of Science Business and Humanities (CSBH)  | Bangladesh | 2020 |
