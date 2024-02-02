@@ -56,7 +56,7 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 **Teaching Assistant** | **Asian University for Women (AUW), Chattogram** | **2022**
 - Worked as a teaching assistant for Reading Across the Disciplines (RAD) and English as Second Language (ESL) courses of Pre-UG
 
-**Data Collector and Enumerator** | **Bangladesh Institute of Labour Studies (BILS), Chattogram** | **2022**
+**Enumerator** | **Bangladesh Institute of Labour Studies (BILS), Chattogram** | **2022**
 - Worked as a data collector for a project regarding the decent working environment and worker's rights in the industrial establishment under Chittagong University (CU) <br>
 [Certificate](https://adrikachowdhury.github.io/assets/img/BILS.jpg)
 
