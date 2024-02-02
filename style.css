@@ -1,17 +1,10 @@
-table {
-  border-collapse: collapse;
-}
-
 tr {
-  border-collapse: collapse;
   text-align: center;
   font-family: Garamond;
   font-size: 120%;
-  background-color: #F0F8FF;
 }
 th {
-  background-data: #afc5db
-  border-collapse: collapse;
+  background-color: #afc5db
   border: 1px solid #dddddd;
   text-align: center;
   padding: 8px;
