@@ -1,8 +1,3 @@
-
-<title>
-Adrika Chowdhury | AUW
-</title>
-
 <div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> About Me </strong> </div>
 <br>
 <i style= "font-family: Arial;">
@@ -80,7 +75,7 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 - Worked as a public relations managing volunteer for the 9<sup>th</sup> Photography Carnival <br>
 [Participation Certificate](https://adrikachowdhury.github.io/assets/img/AUWPC.jpg)
 
-<div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> Experience </strong> </div>
+<div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> Certification </strong> </div>
 <br>
 **Code In Place Certification (2023)**
 - Completed the online course “Introduction to Python (CS106A)” offered by Standford University <br>
