@@ -1,5 +1,6 @@
-.attributes {
-  background-color: #F0F8FF;
+tr {
   text-align: center;
   font-family: Garamond;
+  font-size: 120%;
+  background-color: #F0F8FF;
 }
