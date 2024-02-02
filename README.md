@@ -82,7 +82,7 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 
 **Cisco Certification (2023)**
 - Completed beginner-level “Introduction to Cybersecurity” course under the Cisco Networking Academy <br>
-<a href = "https://adrikachowdhury.github.io/assets/img/Introduction_to_Cybersecurity_Badge20231212-29-lvk384%20-%20Copy.pdf" class= "button">Completion Certificate 1</a><br>
+[Completion Certificate 1](https://adrikachowdhury.github.io/assets/img/Introduction_to_Cybersecurity_Badge20231212-29-lvk384%20-%20Copy.pdf)<br>
 [Completion Certificate 2](https://adrikachowdhury.github.io/assets/img/AdrikaChowdhury-Introduction%20to%20-certificate%20-%20Copy.pdf)
 
 <div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> Projects </strong> </div>
