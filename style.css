@@ -1,7 +1,8 @@
 tr {
   text-align: center;
-  font-family: Garamond;
-  font-size: 120%;
+}
+tr nth-child(even){
+  background-color: #cfd2d4;
 }
 th {
   background-color: #afc5db
