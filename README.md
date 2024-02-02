@@ -14,7 +14,7 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 
 <div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> Education </strong> </div>
 <table>
- <tr style="text-align: center; font-family: Garamond; font-size: 120%; background-color: #F0F8FF;">
+ <tr>
     <th>Qualification</th>
     <th>Subject</th>
     <th>Grade</th>
@@ -22,7 +22,7 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
     <th>Country</th>
     <th>Year</th>
   </tr>
-  <tr style="text-align: center; font-family: Monaco; font-size: 120%; background-color: #f7fdff;">
+  <tr>
    <td>Bachelor of Science (B.Sc.)</td>
    <td>Computer Science</td>
    <td>CGPA 3.98</td>
@@ -30,7 +30,7 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
    <td>Bangladesh</td>
    <td>2025</td>
   </tr>
-  <tr style="text-align: center; font-family: Monaco; font-size: 120%; background-color: #f7fdff;">
+  <tr>
    <td>Higher Secondary Certificate (HSC)</td>
    <td>Science Group</td>
    <td>GPA 5.00</td>
@@ -38,7 +38,7 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
    <td>Bangladesh</td>
    <td>2020</td>
   </tr>
-  <tr style="text-align: center; font-family: Monaco; font-size: 120%; background-color: #f7fdff;">
+  <tr>
    <td>Secondary School Certificate (SSC)</td>
    <td>Science Group</td>
    <td>GPA 5.00</td>
