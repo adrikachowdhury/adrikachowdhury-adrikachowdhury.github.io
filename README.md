@@ -48,7 +48,7 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 </table>
 
 <div> <strong> Experience </strong> </div>
-<br>
+
 **Graphics Designer and Editor** | **Asian University for Women (AUW), Chattogram** | **2022-2023**
 - Worked as the graphics designer and editor for the Culinary Chef Club
 
@@ -60,7 +60,6 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 [Certificate](https://adrikachowdhury.github.io/assets/img/BILS.jpg)
 
 <div> <strong> Extracurricular Activities </strong> </div>
-<br>
 
 **Organizing Committee Member** | **Asian University for Women (AUW), Chattogram** | **2023**
 - Worked as an organizing committee member for the Intervarsity Debate Championship <br>
@@ -76,7 +75,6 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 [Participation Certificate](https://adrikachowdhury.github.io/assets/img/AUWPC.jpg)
 
 <div> <strong> Certifications </strong> </div>
-<br>
 
 **Code In Place Certification (2023)**
 - Completed the online course “Introduction to Python (CS106A)” offered by Standford University <br>
