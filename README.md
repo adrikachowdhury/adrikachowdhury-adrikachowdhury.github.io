@@ -59,8 +59,9 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 - Worked as a data collector for a project regarding the decent working environment and worker's rights in the industrial establishment under Chittagong University (CU) <br>
 [Certificate](https://adrikachowdhury.github.io/assets/img/BILS.jpg)
 
-<di> <strong> Extracurricular Activities </strong> </div>
+<div> <strong> Extracurricular Activities </strong> </div>
 <br>
+
 **Organizing Committee Member** | **Asian University for Women (AUW), Chattogram** | **2023**
 - Worked as an organizing committee member for the Intervarsity Debate Championship <br>
 [Participation Certificate](https://adrikachowdhury.github.io/assets/img/AUWDS%20OrgCoM.jpg)
@@ -76,6 +77,7 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 
 <div> <strong> Certifications </strong> </div>
 <br>
+
 **Code In Place Certification (2023)**
 - Completed the online course “Introduction to Python (CS106A)” offered by Standford University <br>
 [Completion Certificate](https://adrikachowdhury.github.io/assets/img/CIP.png)
