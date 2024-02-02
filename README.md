@@ -1,10 +1,8 @@
-<html>
-<body>
 <div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> About Me </strong> </div>
 <br>
 <i style= "font-family: Arial;">
 Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bachelor of Science in Computer Science at the <a href="https://asian-university.org/">Asian University for Women</a>, and expect to graduate in 2025.<br>As a person, I believe in being friendly, dedicated, hard-working, and enthusiastic. I am also quite efficient in teamwork and organization. During my pastime, I often engage myself in digital painting, listening to music, or watching series.<br>I have been planning to do my higher studies in my major after my undergraduate studies. After completing my Bachelor's and Master's, I set my career goal to secure a high-standard job in the field of Computer Science to get enough important skills needed these days. I believe that these skills would be crucial for me to compete in the challenging world.</i>
-
+<br>
 <div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> Skills </strong> </div>
 - Language Fluency (Native Bangla and English)
 - Time Management Skills
@@ -12,7 +10,7 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 - Teamwork Skills
 - Problem-Solving Skills
 - Computer Proficiencies: Basic C/Python/Java Programming, SPSS, Canva, Adobe Fresco, Basic Front-End Development
-
+<br>
 <div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> Education </strong> </div>
 <table>
  <tr>
@@ -95,6 +93,3 @@ Developed a final graphics project for the Code In Place Certification course us
 ### Github Pages
 [Personal Portfolio Website](https://adrikachowdhury.github.io/) <br>
 Developed a personal portfolio website using Github Pages
-
-</body>
-</html>
