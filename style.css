@@ -4,3 +4,8 @@ tr {
   font-size: 120%;
   background-color: #F0F8FF;
 }
+th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
