@@ -1,3 +1,5 @@
+<html>
+<body>
 <div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> About Me </strong> </div>
 <br>
 <i style= "font-family: Arial;">
@@ -93,3 +95,6 @@ Developed a final graphics project for the Code In Place Certification course us
 ### Github Pages
 [Personal Portfolio Website](https://adrikachowdhury.github.io/) <br>
 Developed a personal portfolio website using Github Pages
+
+</body>
+</html>
