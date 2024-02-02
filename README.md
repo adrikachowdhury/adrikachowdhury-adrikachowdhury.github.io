@@ -1,9 +1,9 @@
-<div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> About Me </strong> </div>
+<div> <strong> About Me </strong> </div>
 <br>
 <i style= "font-family: Arial;">
 Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bachelor of Science in Computer Science at the <a href="https://asian-university.org/">Asian University for Women</a>, and expect to graduate in 2025.<br>As a person, I believe in being friendly, dedicated, hard-working, and enthusiastic. I am also quite efficient in teamwork and organization. During my pastime, I often engage myself in digital painting, listening to music, or watching series.<br>I have been planning to do my higher studies in my major after my undergraduate studies. After completing my Bachelor's and Master's, I set my career goal to secure a high-standard job in the field of Computer Science to get enough important skills needed these days. I believe that these skills would be crucial for me to compete in the challenging world.</i>
 <br>
-<div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> Skills </strong> </div>
+<div> <strong> Skills </strong> </div>
 - Language Fluency (Native Bangla and English)
 - Time Management Skills
 - Organizational Skills
@@ -11,7 +11,7 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 - Problem-Solving Skills
 - Computer Proficiencies: Basic C/Python/Java Programming, SPSS, Canva, Adobe Fresco, Basic Front-End Development
 <br>
-<div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> Education </strong> </div>
+<div> <strong> Education </strong> </div>
 <table>
  <tr>
     <th>Qualification</th>
@@ -47,7 +47,7 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
   </tr>
 </table>
 
-<div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> Experience </strong> </div>
+<div> <strong> Experience </strong> </div>
 <br>
 **Graphics Designer and Editor** | **Asian University for Women (AUW), Chattogram** | **2022-2023**
 - Worked as the graphics designer and editor for the Culinary Chef Club
@@ -59,7 +59,7 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 - Worked as a data collector for a project regarding the decent working environment and worker's rights in the industrial establishment under Chittagong University (CU) <br>
 [Certificate](https://adrikachowdhury.github.io/assets/img/BILS.jpg)
 
-<div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> Extracurricular Activities </strong> </div>
+<di> <strong> Extracurricular Activities </strong> </div>
 <br>
 **Organizing Committee Member** | **Asian University for Women (AUW), Chattogram** | **2023**
 - Worked as an organizing committee member for the Intervarsity Debate Championship <br>
@@ -74,7 +74,7 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 - Worked as a public relations managing volunteer for the 9<sup>th</sup> Photography Carnival <br>
 [Participation Certificate](https://adrikachowdhury.github.io/assets/img/AUWPC.jpg)
 
-<div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> Certifications </strong> </div>
+<div> <strong> Certifications </strong> </div>
 <br>
 **Code In Place Certification (2023)**
 - Completed the online course “Introduction to Python (CS106A)” offered by Standford University <br>
@@ -85,7 +85,7 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 [Completion Certificate 1](https://adrikachowdhury.github.io/assets/img/Introduction_to_Cybersecurity_Badge20231212-29-lvk384%20-%20Copy.pdf)<br>
 [Completion Certificate 2](https://adrikachowdhury.github.io/assets/img/AdrikaChowdhury-Introduction%20to%20-certificate%20-%20Copy.pdf)
 
-<div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> Projects </strong> </div>
+<div> <strong> Projects </strong> </div>
 
 ### Python Programming
 [Imbricating Colorful Squares](https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS) <br>
