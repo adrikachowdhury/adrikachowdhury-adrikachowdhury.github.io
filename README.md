@@ -1,3 +1,7 @@
+<title>
+Adrika Chowdhury | AUW
+</title>
+
 <div style="font-family: Garamond; font-size: 170%; background-color: #F0F8FF; text-align: center;"> <strong> About Me </strong> </div>
 <br>
 <i style= "font-familyL Arial;">
