@@ -14,12 +14,12 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 <div style= "font-family: Garamond; font-size: 170%; background-color: #f2ddd8; text-align: center; padding: 10px;"> <strong> Education </strong> </div>
 <table>
  <tr>
-    <th>Qualification</th>
-    <th>Subject</th>
-    <th>Grade</th>
-    <th>Institution</th>
-    <th>Country</th>
-    <th>Year</th>
+    <th style = "background-color: #ebe5e4;">Qualification</th>
+    <th style = "background-color: #ebe5e4;">Subject</th>
+    <th style = "background-color: #ebe5e4;">Grade</th>
+    <th style = "background-color: #ebe5e4;">Institution</th>
+    <th style = "background-color: #ebe5e4;">Country</th>
+    <th style = "background-color: #ebe5e4;">Year</th>
   </tr>
   <tr>
    <td>Bachelor of Science (B.Sc.)</td>
