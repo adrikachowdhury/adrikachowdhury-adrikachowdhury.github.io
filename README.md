@@ -76,21 +76,23 @@
 [Participation Certificate](https://adrikachowdhury.github.io/assets/img/AUWPC.jpg)
 
 <div style= "font-family: Garamond; font-size: 170%; background-color: #f2ddd8; text-align: center; padding: 10px;"> <strong> Certifications </strong> </div>
-<div style = "font-family: Copperplate; font-size: 130%;"> <b> Code In Place Certification (2023) </b> </div>
+<div style = "color:black; font-family: Copperplate; font-size: 130%;"> <b> Code In Place Certification (2023) </b> </div>
 
-- Completed the online course “Introduction to Python (CS106A)” offered by Standford University <br>
+Completed the online course “Introduction to Python (CS106A)” offered by Standford University <br>
 [Completion Certificate](https://adrikachowdhury.github.io/assets/img/CIP.png)
 
-<div style = "font-family: Copperplate; font-size: 130%;"> <b> Cisco Certification (2023) </b> </div>
+<div style = "color:black; font-family: Copperplate; font-size: 130%;"> <b> Cisco Certification (2023) </b> </div>
 
-- Completed beginner-level “Introduction to Cybersecurity” course under the Cisco Networking Academy <br>
+Completed beginner-level “Introduction to Cybersecurity” course under the Cisco Networking Academy <br>
 [Completion Certificate 1](https://adrikachowdhury.github.io/assets/img/Introduction_to_Cybersecurity_Badge20231212-29-lvk384%20-%20Copy.pdf)<br>
 [Completion Certificate 2](https://adrikachowdhury.github.io/assets/img/AdrikaChowdhury-Introduction%20to%20-certificate%20-%20Copy.pdf)
 
 <div style= "font-family: Garamond; font-size: 170%; background-color: #f2ddd8; text-align: center; padding: 10px;"> <strong> Projects </strong> </div>
-<div style = "font-family: Copperplate; font-size: 130%;"> <b> Github Pages (2024) </b> </div>
+<div style = "color:black; font-family: Copperplate; font-size: 130%;"> <b> Github Pages (2024) </b> </div>
+
 [Personal Portfolio Website](https://adrikachowdhury.github.io/) <br>
 Developed a personal portfolio website using Github Pages
-<div style = "font-family: Copperplate; font-size: 130%;"> <b> Python Programming (2023) </b> </div>
+<div style = "color:black; font-family: Copperplate; font-size: 130%;"> <b> Python Programming (2023) </b> </div>
+
 [Imbricating Colorful Squares](https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS) <br>
 Developed a final graphics project for the Code In Place Certification course using Python Programming
