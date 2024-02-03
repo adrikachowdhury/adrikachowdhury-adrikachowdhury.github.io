@@ -12,6 +12,7 @@ Hi, I am Adrika Chowdhury, based in Chattogram, Bangladesh. I am pursuing my Bac
 - Computer Proficiencies: Basic C/Python/Java Programming, SPSS, Canva, Adobe Fresco, Basic Front-End Development
 <br>
 <div style= "font-family: Garamond; font-size: 170%; background-color: #f2ddd8; text-align: center; padding: 10px;"> <strong> Education </strong> </div>
+<br>
 <table>
  <tr>
     <th style = "background-color: #ebe5e4;">Qualification</th>
